@@ -10,4 +10,4 @@
 
 ## Lessons Learnt from Github crash course
 - I learned how to create issues & milestones that outline main objectives of project
-- I learnt hoow to resolve conflicts
+- I learnt how to resolve merge conflicts
