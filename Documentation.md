@@ -2,9 +2,7 @@
 
 ## Group Members
 - 151783 Cecilia Agonga
--
--15104 Claire Wambui
--
+- 15104 Claire Wambui
 - 150325 Faith Njuguna
 -
 -
